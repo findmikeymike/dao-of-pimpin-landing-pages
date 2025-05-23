@@ -1,3 +1,7 @@
 User-agent: *
-Allow: /
-Sitemap: https://thedaoofpimpin.com/sitemap.xml
+Allow: /masculinity-*.html
+Disallow: /index.html
+Disallow: /content.json
+Disallow: /dialogues.json
+
+Sitemap: https://thunderous-kheer-a0b884.netlify.app/sitemap.xml
